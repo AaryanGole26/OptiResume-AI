@@ -53,9 +53,9 @@ npm start
 - CORS/URL → set `VITE_BACKEND_URL` or ensure backend at `http://localhost:8000`
 
 ## Credits
--billryan/resume
--Renovamen/oh-my-cv
--KaTeX/KaTeX
+- billryan/resume
+- Renovamen/oh-my-cv
+- KaTeX/KaTeX
 
 ## License
 MIT
