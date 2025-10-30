@@ -61,4 +61,7 @@ npm start
 MIT
 
 ## Author
-GitHub: https://github.com/AaryanGole26
+<a href="https://github.com/AaryanGole26" style="display: inline-block; background-color: #24292e; color: #fff; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: bold;">
+GitHub: AaryanGole26
+</a>
+
