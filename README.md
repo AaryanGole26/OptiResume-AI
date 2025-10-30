@@ -52,6 +52,11 @@ npm start
 - 422 on `/upload_resume_path` → ensure JSON body `{ "file_path": "C:\\path\\resume.pdf" }`
 - CORS/URL → set `VITE_BACKEND_URL` or ensure backend at `http://localhost:8000`
 
+## Credits
+-billryan/resume
+-Renovamen/oh-my-cv
+-KaTeX/KaTeX
+
 ## License
 MIT
 
