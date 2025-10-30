@@ -61,7 +61,6 @@ npm start
 MIT
 
 ## Author
-<a href="https://github.com/AaryanGole26" style="display: inline-block; background-color: #24292e; color: #fff; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: bold;">
-GitHub: AaryanGole26
-</a>
+[![GitHub: AaryanGole26](https://img.shields.io/badge/GitHub-AaryanGole26-blue?logo=github)](https://github.com/AaryanGole26)
+
 
